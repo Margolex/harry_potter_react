@@ -1,0 +1,25 @@
+.box {
+    width: 334px;
+    height: auto;
+    background-color: #FFFFFF;
+}
+
+.box_persone {
+    padding: 24px 25px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+     width: 334px;
+    height: 192px;
+    background-color: black;
+    position: relative;
+}
+.img {
+    height: 192px;
+  height: auto;
+  width: auto;
+   
+}
+

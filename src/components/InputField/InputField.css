@@ -1,0 +1,52 @@
+.header__box {
+  display: flex;
+  justify-content: space-between;
+  color: #818182;
+}
+.header__text {
+  display: block;
+  margin: 48px 0 3px 15px;
+
+  
+}
+
+.search {
+  width: 452px;
+  height: 38px;
+  background: #ffffff;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  outline: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  padding-left: 17px;
+}
+
+.search::placeholder {
+  color: #abb5be;
+}
+
+select {
+  width: 216px;
+  height: 38px;
+  background: #ffffff;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  outline: none;
+  color:black;
+  padding-left: 15px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  margin-left: 15px;
+}
+
+.choose {
+  color: #abb5be;
+}
+
+.faculty {
+  color: black;
+}

@@ -1,0 +1,32 @@
+footer {
+  padding: 40px 0 70px;
+  border-top: 1px solid #dee2e6;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  max-width: 688px;
+  margin: 0 auto;
+}
+
+.extreme {
+  background-color: white;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  width: 80px;
+  height: 40px;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.select {
+  display: flex;
+  align-items: center;
+  right: 0px;
+  margin-left: auto;
+}
