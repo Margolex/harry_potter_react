@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harry_potter_react/static/css/main.05e224c1.css",
+    "main.js": "/harry_potter_react/static/js/main.84c1707f.js",
+    "index.html": "/harry_potter_react/index.html",
+    "main.05e224c1.css.map": "/harry_potter_react/static/css/main.05e224c1.css.map",
+    "main.84c1707f.js.map": "/harry_potter_react/static/js/main.84c1707f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05e224c1.css",
+    "static/js/main.84c1707f.js"
+  ]
+}
